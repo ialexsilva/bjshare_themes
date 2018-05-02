@@ -740,10 +740,10 @@ tr {
     margin-bottom: 25px;
 }
 
-.forum_index .rowa,
+/*.forum_index .rowa,
 .forum_index .rowb {
 
-}
+}*/
 
 td, th {
     border: 1px solid #324554;
@@ -1337,7 +1337,6 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
     cursor: default;
 }
 
-/* by th3funto */
 button, input[type=submit], input[type=button] {
     min-width: 30px;
     margin-bottom: 0;
@@ -1430,25 +1429,19 @@ a.BJinfoBox span {
     background-image: linear-gradient(to bottom, #000, #0f161e);
     /*height: 30px;*/
     line-height: 15px;
-
     visibility: hidden;
     border-radius: 2px;
     border: 1px solid #4f728e;
-
     text-decoration: none;
     padding: 7px 10px;
-
     opacity: 0;
-
     bottom: 0px;
-
     -webkit-transition: opacity, bottom 0.4s;
     -moz-transition: opacity, bottom 0.4s;
     -ms-transition: opacity, bottom 0.4s;
     -o-transition: opacity, bottom 0.4s;
     transition: opacity, bottom 0.4s;
 }
-
 
 a:hover.BJinfoBox span {
     visibility: visible;
@@ -1536,7 +1529,6 @@ a:hover.BJinfoBox span {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
     opacity: 1;
-
     text-decoration: none;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -1548,8 +1540,6 @@ a:hover.BJinfoBox span {
 a[data-tooltip]:hover{
     text-decoration: none;
 }
-
-
 
 
 /* Global */
@@ -1978,7 +1968,7 @@ ul.thin li {
     width: 100%;
     text-align: center;
     padding: 4px 0px;
-        margin-top: 110px;
+    margin-top: 110px;
 }
 
 #searchbars input {
@@ -3273,7 +3263,7 @@ ol.bjqs-markers li a {
 }
 
 p.bjqs-caption {
-    font-family: 'Varela Round', sans-serif;
+    font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
     width: 190px;
     margin: 25px;
@@ -3297,7 +3287,7 @@ p.bjqs-caption {
 }
 
 ul.bjqs-controls.v-centered li a {
-    font-family: tahoma, helvetica, sans-serif;
+    font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
     padding: 10px;
     background: #365a72;
@@ -3341,10 +3331,8 @@ p.bjqs-caption {
 #btntodosSlide {
 
     margin-left: 30px;
-
     margin-top: 18px;
-    font-family: tahoma, helvetica, sans-serif;
-
+    font-family: Roboto, tahoma, helvetica, sans-serif;
     font-weight: lighter;
     min-height: 28px;
     max-width: 50px;
