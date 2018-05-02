@@ -3268,7 +3268,9 @@ p.bjqs-caption {
     margin: 25px;
     padding: 2%;
     position: absolute;
-    bottom: -15px;
+    bottom: -12px;
+    font-size: 14px;
+    color: #fff;
 }
 
 #container {
@@ -3324,7 +3326,7 @@ ol.bjqs-markers li a:hover {
 }
 
 p.bjqs-caption {
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(7, 7, 7, 0.71);
 }
 
 #btntodosSlide {
