@@ -3196,9 +3196,9 @@ ul.bjqs-controls.v-centered li a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-next a {
-    margin-top: 192px;
+    margin-top: 182px;
     right: 0;
-    max-width: 70px;
+    min-width: 90px;
     margin-bottom: 0;
     background: #2c485a;/*background: #3498db;*/
     cursor: pointer;/*
@@ -3207,9 +3207,9 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
     background-image: -ms-linear-gradient(top, #3498db, #256f9c);
     background-image: -o-linear-gradient(top, #3498db, #256f9c);
     background-image: linear-gradient(to bottom, #3498db, #256f9c);*/
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
     border: none;
     color: #fff;
     padding: 6px 8px 6px 8px;
@@ -3220,9 +3220,9 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-prev a {
-    margin-top: 192px;
+    margin-top: 182px;
     left: 30px;
-    max-width: 70px;
+    min-width: 90px;
     margin-bottom: 0;
     background: #2c485a;/*    background: #3498db;*/
     cursor: pointer;
@@ -3231,9 +3231,9 @@ ul.bjqs-controls.v-centered li.bjqs-prev a {
     background-image: -ms-linear-gradient(top, #3498db, #256f9c);
     background-image: -o-linear-gradient(top, #3498db, #256f9c);
     background-image: linear-gradient(to bottom, #3498db, #256f9c);*/
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
     border: none;
     color: #fff;
     padding: 6px 8px 6px 8px;
@@ -3333,7 +3333,7 @@ p.bjqs-caption {
     margin-left: 30px;
     margin-top: 18px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
-    font-weight: lighter;
+    font-weight: 300;
     min-height: 28px;
     max-width: 50px;
 
