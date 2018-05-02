@@ -247,7 +247,7 @@ ul.thin li {
 #logo {
     width: 100%;
     height: 205px;
-    background: url('https://ialexsilva.com/bjshare_themes/img/logo.png') no-repeat top center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/logo.png') no-repeat center;
     margin: 0 auto;
 }
 
@@ -986,35 +986,35 @@ ul.poll li.graph {
 }
 
 .unread_locked_sticky {
-    background: url('http://i.imgur.com/JvZuSza.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/locked_sticky.png') no-repeat center center;
 }
 
 .read_locked_sticky {
-    background: url('http://i.imgur.com/JvZuSza.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/locked_sticky.png') no-repeat center center;
 }
 
 .read_sticky {
-    background: url('http://i.imgur.com/jNcMR6T.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/read_sticky.png') no-repeat center center;
 }
 
 .unread_sticky {
-    background: url('http://i.imgur.com/QrfbnFH.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/unread_sticky.png') no-repeat center center;
 }
 
 .unread_locked {
-    background: url('http://i.imgur.com/JvZuSza.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/locked_sticky.png') no-repeat center center;
 }
 
 .read_locked {
-    background: url('http://i.imgur.com/JvZuSza.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/locked_sticky.png') no-repeat center center;
 }
 
 .unread {
-    background: url('http://i.imgur.com/RVOcxy0.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/unread.png') no-repeat center center;
 }
 
 .read {
-    background: url('http://i.imgur.com/FNujrRs.png') no-repeat center center;
+    background: url('https://ialexsilva.com/bjshare_themes/img/read.png') no-repeat center center;
 }
 
 strong.quoteheader {
