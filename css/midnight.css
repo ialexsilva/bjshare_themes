@@ -44,12 +44,10 @@ a:hover {
 
 #urlcolor{
     color: #1c94e0;
-    hover: #1c94e0;
 }
 
 #urlcolor a:hover{
     color: #0A92C8;
-    hover: #0A92C8;
 }
 
 #inbox .head a {
@@ -1303,6 +1301,7 @@ table.shoutTable {
     border: none;
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 td.shoutTable {
@@ -2777,6 +2776,7 @@ table.shoutTable {
     border: none;
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 td.shoutTable {
@@ -2869,6 +2869,7 @@ button, input[type=submit], input[type=button] {
     background-image: -o-linear-gradient(top, #38a6eb, #318ecc);
     background-image: linear-gradient(to bottom, #38a6eb, #318ecc);
     -ms-filter:"alpha(opacity=100)";
+    
 }
 
 /*Home Slider*/
