@@ -2858,7 +2858,6 @@ button, input[type=submit], input[type=button] {
     background-image: -ms-linear-gradient(top, #38a6eb, #318ecc);
     background-image: -o-linear-gradient(top, #38a6eb, #318ecc);
     background-image: linear-gradient(to bottom, #38a6eb, #318ecc);
-    -ms-filter:"alpha(opacity=100)";
 }
 
 /*Home Slider*/
@@ -2935,7 +2934,6 @@ a:hover.BJinfoBox span {
 [data-tooltip]:before,
 [data-tooltip]:after {
     visibility: hidden;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     pointer-events: none;
 
@@ -2992,9 +2990,7 @@ a:hover.BJinfoBox span {
 [data-tooltip]:hover:before,
 [data-tooltip]:hover:after {
     visibility: visible;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     opacity: 1;
-
     text-decoration: none;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
