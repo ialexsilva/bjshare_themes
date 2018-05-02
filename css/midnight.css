@@ -3126,8 +3126,7 @@ tr.unreadpm {
     background-color: #292929;
 }
 div#container {
-    background-color: #292929;
-    margin-top: -55px;
+    margin-top: 3px;
 }
 
 div#banner-fade {
@@ -3173,7 +3172,6 @@ select {
 
 .sidebar img {
     max-width: 220px;
-    margin: 5px;
 }
  
 #noteAlertMsg {
@@ -3281,7 +3279,7 @@ p.bjqs-caption {
     margin: 25px;
     padding: 2%;
     position: absolute;
-    bottom: -10px;
+    bottom: -15px;
 }
 
 #container {
