@@ -225,7 +225,7 @@ ul.thin li {
 /* Layout (Every page) */
 
  #header {
-    background: url('images/header.jpg') repeat-x top center;
+    background: url('img/header.jpg') repeat-x top center;
     width: 100%;
     padding: 0px 0 0 0;
 }
