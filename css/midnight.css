@@ -3115,9 +3115,9 @@ tr.unreadpm {
 .torrent_table tr.group_torrent:nth-child(4n+2):hover{
     background-color: #292929;
 }
-div#container {
-    margin-top: 3px;
-}
+/*div#container {
+
+}*/
 
 div#banner-fade {
     background: border-box;
@@ -3131,9 +3131,12 @@ iframe.homesldframe {
 }
 
 #container {
-     max-width: initial;
-    margin: 0 auto;
-    padding-bottom: 80px;
+    float: right;
+    position: relative;
+    width: 274px;
+    padding-top: 4px;
+    padding-bottom: 0px;
+    float: bottom;
 }
 
 #noty_bottomRight_layout_container {
