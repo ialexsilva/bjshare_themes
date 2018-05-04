@@ -4,7 +4,6 @@
 * {
     padding: 0em;
     margin: 0em;
-    text-rendering: optimizeLegibility;
 }
 
 iframe.homesldframe {
@@ -2189,7 +2188,7 @@ p.min_padding {
 .head {
     background-color: #1e1e1e;
     padding: 7px;
-    color: #ccc;
+    color: #3c647d;
     border-bottom: 1px solid #4e4e4e
 }
 
@@ -2797,8 +2796,8 @@ button:hover, input[type="submit"]:hover, input[type=button]:hover {
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
-    background: #000;
-    color: #ccc;
+    background: #adadad;
+    color: #f7f7f7;
     cursor: default;
 }
 
