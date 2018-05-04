@@ -498,9 +498,6 @@ ul.thin li {
 
 #cat-selector ul li {
     display: inline;
-    width: 12em;
-    height: 1em;
-    float: left;
 }
 
 .alertbar {
@@ -645,7 +642,6 @@ p.min_padding {
 }
 
 .pad h3, .pad h4, .padbox h3, .padbox h4 {
-    margin-top: 0px;
     padding-top: 0px;
     display: inline;
 }
