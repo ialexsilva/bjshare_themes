@@ -2189,7 +2189,7 @@ p.min_padding {
 .head {
     background-color: #1e1e1e;
     padding: 7px;
-    color: #3c647d;
+    color: #ccc;
     border-bottom: 1px solid #4e4e4e
 }
 
@@ -2797,8 +2797,8 @@ button:hover, input[type="submit"]:hover, input[type=button]:hover {
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
-    background: #adadad;
-    color: #f7f7f7;
+    background: #000;
+    color: #ccc;
     cursor: default;
 }
 
