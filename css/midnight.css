@@ -2305,7 +2305,7 @@ td.colhead, .colhead td, .colhead th {
     padding-left: 10px;
     padding-right: 10px;
     background: #222222;
-    color: antiquewhite;
+    color: #fff;
 }
 
 .colhead .sign, .colhead_dark .sign {
