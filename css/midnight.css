@@ -617,7 +617,7 @@ p.min_padding {
 }
 
 .box2 {
-    background-color: #262626;
+    background-color: rgba(41, 41, 41, 0.85);
     border: 1px solid #324554;
     margin-bottom: 10px;
 }
