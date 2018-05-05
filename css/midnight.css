@@ -20,15 +20,14 @@ body {
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
-    color: #fff;
+    color: #fafafa;
 }
 
 /* Common elements */
-
 a {
     text-decoration: none;
     border: none;
-    color: #fff;
+    color: #fafafa;
 }
 
 a:hover {
@@ -56,7 +55,7 @@ a:hover {
 
 .colhead a,
 .colhead_dark a {
-    color: #fff;
+    color: #fafafa;
     /* color: #1c94e0; */
 }
 
@@ -78,7 +77,7 @@ h1, h2, h3, h4 {
     margin-bottom: 0;
     padding: 6px 10px;
     font-size: 90%;
-    color: #fff;
+    color: #fafafa;
 }
 
 h2 {
@@ -282,7 +281,7 @@ ul.thin li {
 #menu ul li a.active,
 #menu ul li a:focus,
 #menu ul li a:hover {
-    color: #fff;
+    color: #fafafa;
 }
 
 /*Menu DropDown*/
@@ -302,7 +301,7 @@ ul.thin li {
 
 #menudrop ul a {
     display: block;
-    color: #fff;
+    color: #fafafa;
     text-decoration: none;
     font-weight: 700;
     font-size: 12px;
@@ -368,7 +367,6 @@ ul.thin li {
 #menudrop ul li:focus > ul {
     display: block;
 }
-
 /*Fim - Menu DropDown*/
 
 #userinfo {
@@ -378,7 +376,7 @@ ul.thin li {
     padding: 4px 0px;
     width: 100%;
     min-width: 950px;
-    color: #fff;
+    color: #fafafa;
     text-align: center;
     font-size: 0.9em;
 }
@@ -401,7 +399,7 @@ ul.thin li {
 }
 
 #userinfo a {
-    color: #fff;
+    color: #fafafa;
 }
 
 #userinfo a:hover {
@@ -655,13 +653,13 @@ p.min_padding {
 .head {
     background-color: #1b2836;
     padding: 7px;
-    color: #fff;
+    color: #fafafa;
     border-bottom: 1px solid #324554;
 }
 
 #inbox .head {
     background-color: #111921;
-    color: #fff;
+    color: #fafafa;
 }
 
 .body {
@@ -758,7 +756,7 @@ td, th {
 .colhead {
     background-color: #111921;
     font-weight: bold;
-    color: #fff;
+    color: #fafafa;
 }
 
 .forum_index .colhead {
@@ -793,16 +791,16 @@ td.colhead, .colhead td, .colhead th {
 
 .colhead_dark {
     background-color: #191818;
-    color: #fff;
+    color: #fafafa;
 }
 
 .colhead_dark a{
-    color: #fff;
+    color: #fafafa;
 }
 
 .forum_post .colhead_dark {
     background-color: #1b2836;
-    color: #fff;
+    color: #fafafa;
 }
 
 #torrent_details .torrentdetails {
@@ -1014,7 +1012,7 @@ ul.poll li.graph {
 }
 
 strong.quoteheader {
-    color: #fff;
+    color: #fafafa;
 }
 
 table.forum_post {
@@ -1301,7 +1299,7 @@ table.shoutTable {
 }
 
 td.shoutTable {
-    color: #fff;
+    color: #fafafa;
     border: none;
     padding: 8px;
     text-align: left;
@@ -1342,7 +1340,7 @@ button, input[type=submit], input[type=button] {
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: none;
-    color: #fff;
+    color: #fafafa;
     padding: 6px 8px 6px 8px;
     text-decoration: none;
     vertical-align: middle;
@@ -1381,7 +1379,7 @@ button, input[type=submit], input[type=button] {
     height:0;
     width:0;
     border:8px solid transparent;
-    border-bottom-color:#fff;
+    border-bottom-color:#fafafa;
 }
 #irtopo:hover {
     background: #000;
@@ -1416,7 +1414,7 @@ a.BJinfoBox span {
     text-decoration: none;
     position: absolute;
     min-width: 185px;
-    color: #FFF;
+    color: #fafafa;
     background: linear-gradient(to bottom, #000, #0f161e);
     background-image: -webkit-linear-gradient(top, #000, #0f161e);
     background-image: -moz-linear-gradient(top, #000, #0f161e);
@@ -1489,9 +1487,7 @@ a:hover.BJinfoBox span {
     background-image: -ms-linear-gradient(top, #000, #0f161e);
     background-image: -o-linear-gradient(top, #000, #0f161e);
     background-image: linear-gradient(to bottom, #000, #0f161e);
-    /*background-color: #000;
-    background-color: hsla(0, 0%, 20%, 0.9);*/
-    color: #fff;
+    color: #fafafa;
     content: attr(data-tooltip);
     text-align: center;
     font-size: 13px;
@@ -1607,7 +1603,7 @@ h1, h2, h3, h4 {
     margin-bottom: 0;
     padding: 6px 10px;
     font-size: 90%;
-    color: #fff;
+    color: #fafafa;
 }
 
 h2 {
@@ -2301,7 +2297,7 @@ td.colhead, .colhead td, .colhead th {
     padding-left: 10px;
     padding-right: 10px;
     background: #222222;
-    color: #fff;
+    color: #fafafa;
 }
 
 .colhead .sign, .colhead_dark .sign {
@@ -2783,8 +2779,6 @@ tr.row2 {
     background: #2e2e2e;
 }
 
-
-
 /*Botoes e inputs submits*/
 button:hover, input[type="submit"]:hover, input[type=button]:hover {
     background: #0a2333;
@@ -2797,7 +2791,6 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
     cursor: default;
 }
 
-
 button, input[type=submit], input[type=button] {
     min-width: 30px;
     margin-bottom: 0;
@@ -2807,14 +2800,13 @@ button, input[type=submit], input[type=button] {
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: none;
-    color: #fff;
+    color: #fafafa;
     padding: 6px 8px 6px 8px;
     text-decoration: none;
     vertical-align: middle;
     text-align: center;
     text-shadow: 0 1px 0 rgba(0,0,0,.1);
 }
-
 
 /*Botao ir ao topo*/
 #irtopo {
@@ -2865,10 +2857,7 @@ button, input[type=submit], input[type=button] {
     position: relative;
 }
 
-
-
 /*Box Info on mouse hover*/
-
 a.BJinfoBox {
     position: relative;
     display: inline;
@@ -2878,23 +2867,19 @@ a.BJinfoBox span {
     text-decoration: none;
     position: absolute;
     min-width: 185px;
-    color: #FFF;
+    color: #fafafa;
     background: linear-gradient(to bottom, #3498db, #256f9c);
     background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
     background-image: -moz-linear-gradient(top, #3498db, #256f9c);
     background-image: -ms-linear-gradient(top, #3498db, #256f9c);
     background-image: -o-linear-gradient(top, #3498db, #256f9c);
     background-image: linear-gradient(to bottom, #3498db, #256f9c);
-    /*height: 30px;*/
     line-height: 15px;
-
     visibility: hidden;
     border-radius: 6px;
     border: 2px solid #4e4e4e;
     padding: 7px 10px;
-
     opacity: 0;
-
     bottom: 0px;
 
     -webkit-transition: opacity, bottom 0.4s;
@@ -2953,9 +2938,7 @@ a:hover.BJinfoBox span {
     background-image: -ms-linear-gradient(top, #3498db, #256f9c);
     background-image: -o-linear-gradient(top, #3498db, #256f9c);
     background-image: linear-gradient(to bottom, #3498db, #256f9c);
-    /*background-color: #000;
-    background-color: hsla(0, 0%, 20%, 0.9);*/
-    color: #fff;
+    color: #fafafa;
     content: attr(data-tooltip);
     text-align: center;
     font-size: 13px;
@@ -2971,7 +2954,6 @@ a:hover.BJinfoBox span {
     left: 50%;
     margin-left: -5px;
     width: 0;
-    /*border-top: 5px solid #3498db;*/
     border-top: 5px solid #256f9c;
     border-right: 5px solid transparent;
     border-left: 5px solid transparent;
@@ -3077,7 +3059,7 @@ background: #d8d8d8
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
-    background: #2c485a;
+    background: #4d7c9a;
     color: #f7f7f7;
     cursor: default;
 }
@@ -3090,15 +3072,12 @@ tr.unreadpm {
     background-color: #3c3c3c;
 }
 
-
 .torrent_table tr.group_torrent:nth-child(4n) {
     background-color: #202020;
     
 }.torrent_table tr.group_torrent:nth-child(4n):hover {
     background-color: #292929;
 }
-
-
 
 .torrent_table tr.group_torrent:nth-child(4n+2) {
     background-color: #202020;
@@ -3107,6 +3086,7 @@ tr.unreadpm {
 .torrent_table tr.group_torrent:nth-child(4n+2):hover{
     background-color: #292929;
 }
+
 /*div#container {
 
 }*/
@@ -3115,7 +3095,7 @@ div#banner-fade {
     background: border-box;
 }
 iframe.homesldframe {
-    background: #fff;
+    background: #fafafa;
 }
 
 .noty_buttons a{
@@ -3195,18 +3175,13 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
     right: 0;
     min-width: 90px;
     margin-bottom: 0;
-    background: #2c485a;/*background: #3498db;*/
-    cursor: pointer;/*
-    background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
-    background-image: -moz-linear-gradient(top, #3498db, #256f9c);
-    background-image: -ms-linear-gradient(top, #3498db, #256f9c);
-    background-image: -o-linear-gradient(top, #3498db, #256f9c);
-    background-image: linear-gradient(to bottom, #3498db, #256f9c);*/
+    background: #2c485a;
+    cursor: pointer;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     border: none;
-    color: #fff;
+    color: #fafafa;
     padding: 6px 8px 6px 8px;
     text-decoration: none;
     vertical-align: middle;
@@ -3219,18 +3194,13 @@ ul.bjqs-controls.v-centered li.bjqs-prev a {
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
-    background: #2c485a;/*    background: #3498db;*/
+    background: #2c485a;
     cursor: pointer;
-    /*background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
-    background-image: -moz-linear-gradient(top, #3498db, #256f9c);
-    background-image: -ms-linear-gradient(top, #3498db, #256f9c);
-    background-image: -o-linear-gradient(top, #3498db, #256f9c);
-    background-image: linear-gradient(to bottom, #3498db, #256f9c);*/
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     border: none;
-    color: #fff;
+    color: #fafafa;
     padding: 6px 8px 6px 8px;
     text-decoration: none;
     vertical-align: middle;
@@ -3266,7 +3236,7 @@ p.bjqs-caption {
     position: absolute;
     bottom: -12px;
     font-size: 14px;
-    color: #fff;
+    color: #fafafa;
 }
 
 #container {
@@ -3289,7 +3259,7 @@ ul.bjqs-controls.v-centered li a {
     padding: 10px;
     background: #365a72;
     font-weight: normal;
-    color: #fff;
+    color: #fafafa;
     text-decoration: none;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -3298,12 +3268,6 @@ ul.bjqs-controls.v-centered li a {
 }
 
 ul.bjqs-controls.v-centered li a:hover {
-    /*background: #2c485a;/*background: #38a6eb;
-    background-image: -webkit-linear-gradient(top, #38a6eb, #318ecc);
-    background-image: -moz-linear-gradient(top, #38a6eb, #318ecc);
-    background-image: -ms-linear-gradient(top, #38a6eb, #318ecc);
-    background-image: -o-linear-gradient(top, #38a6eb, #318ecc);
-    background-image: linear-gradient(to bottom, #38a6eb, #318ecc);*/
     background: #0a2333;
     text-decoration: none;
 }
@@ -3311,7 +3275,7 @@ ul.bjqs-controls.v-centered li a:hover {
 ol.bjqs-markers li a {
     padding: 5px 10px;
     background: #000;
-    color: #fff;
+    color: #fafafa;
     margin: 5px;
     text-decoration: none;
 }
@@ -3326,12 +3290,10 @@ p.bjqs-caption {
 }
 
 #btntodosSlide {
-
     margin-left: 30px;
     margin-top: 18px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-weight: normal;
     min-height: 28px;
     max-width: 50px;
-
 }
