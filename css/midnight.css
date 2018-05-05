@@ -1894,7 +1894,6 @@ ul.thin li {
 #menudrop ul li:focus > ul {
     display: block;
 }
-
 /*Fim - Menu DropDown*/
 
 #userinfo {
@@ -2085,7 +2084,6 @@ input.hidden {
 }
 
 /* Layout (Any page) */
-
 .thin {
     width: 965px;
     margin: 0px auto;
@@ -2482,8 +2480,6 @@ ul.poll li.graph {
 }
 
 /* Layout (Forums) */
-
-
 .last_read a {
     border: none;
     width: 100%;
@@ -2494,7 +2490,6 @@ ul.poll li.graph {
 .last_read a:hover {
     border: none;
 }
-
 
 strong.quoteheader {
     color: #6d6d6d;
@@ -2537,13 +2532,11 @@ blockquote {
 }
 
 /* Layout (Inbox) */
-
 tr.unreadpm {
     background-color: #ECC;
 }
 
 /* Layout (Permission Page) */
-
 .permission_head {
     width: 400px;
     margin-left: auto;
@@ -2573,7 +2566,6 @@ tr.unreadpm {
 }
 
 /* Layout (Invite tree) */
-
 ul .invitetree {
     margin: 0px 0px 0px 25px;
 }
@@ -2584,18 +2576,11 @@ ul .invitetree {
 }
 
 /* Layout (User options) */
-
 .user_options .options_list li {
     margin: 0;
 }
 
-/* Layout (Persoalizacao) */
-
-
-
 /* Layout (MISC) */
-
-
 .left_poll {
     width: 2px;
     height: 9px;
@@ -3142,7 +3127,7 @@ select {
     z-index: 1 !important;
 }
 
-/*Lançamentos Home*/
+/*Lançamentos da página inicial*/
 ul.bjqs {
     position: relative;
     list-style: none;
