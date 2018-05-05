@@ -617,14 +617,14 @@ p.min_padding {
 }
 
 .box2 {
-    background-color: rgba(41, 41, 41, 0.85);
+    background-color: #111921;
     border: 1px solid #324554;
     margin-bottom: 10px;
+
 }
 
 .box3 {
     margin-bottom: 10px;
-
 }
 
 .torrent_description,
@@ -2138,20 +2138,19 @@ p.min_padding {
     background: rgba(41, 41, 41, 0.85);
     border: 1px solid #404040;
     margin-bottom: 10px;
-    /*font-size: 12px;*/
  	 box-shadow: 1px 1px 10px #000;
 }
 
 .box2 {
-    background-color: #EAEAEA;
+    background: rgba(41, 41, 41, 0.85);
     border: 1px solid #4e4e4e;
     margin-bottom: 10px;
-    /*font-size: 12px;*/
+
 }
 
 .box3 {
     margin-bottom: 10px;
-    /*font-size: 12px;*/
+
 }
 
 .torrent_description,
