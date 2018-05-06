@@ -648,7 +648,7 @@ p.min_padding {
 }
 
 .head {
-    background-color: #1b2836;
+    background-color: #1e1e1e;
     padding: 7px;
     color: #fafafa;
     border-bottom: 1px solid #324554;
@@ -2181,8 +2181,8 @@ p.min_padding {
 }
 
 #inbox .head {
-    background-color: #f2f2f2;
-    color: #333;
+    background-color: #1e1e1e;
+    color: #fafafa;
 }
 
 .body {
