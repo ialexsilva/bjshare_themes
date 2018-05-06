@@ -42,11 +42,12 @@ a:hover {
 
 
 #urlcolor{
-    color: #1c94e0;
+    color: #1A73E8;;
 }
 
 #urlcolor a:hover{
-    color: #0A92C8;
+    color: #1A73E8;
+    text-decoration:underline;
 }
 
 #inbox .head a {
