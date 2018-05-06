@@ -20,7 +20,7 @@ body {
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
-    color: #eee;
+    color: #BDBDBD;
 }
 
 /* Common elements */
@@ -1548,7 +1548,7 @@ body {
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
-    color: #eee;
+    color: #BDBDBD;
     background:url('https://ialexsilva.com/bjshare_themes/img/simple-dashed.png') repeat;
     background-color:#101010;
 }
