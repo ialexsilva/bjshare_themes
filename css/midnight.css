@@ -1386,8 +1386,6 @@ button, input[type=submit], input[type=button] {
     background-image: -ms-linear-gradient(top, #000, #0f161e);
     background-image: -o-linear-gradient(top, #000, #0f161e);
     background-image: linear-gradient(to bottom, #000, #0f161e);
-    opacity:1;filter:"alpha(opacity=100)";
-    -ms-filter:"alpha(opacity=100)";
 }
 
 /*Home Slider*/
