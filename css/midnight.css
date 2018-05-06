@@ -650,7 +650,7 @@ p.min_padding {
 .head {
     background-color: #1e1e1e;
     padding: 7px;
-    color: #fafafa;
+    color: #eee;
     border-bottom: 1px solid #324554;
 }
 
@@ -2175,8 +2175,8 @@ p.min_padding {
 .head {
     background-color: #1e1e1e;
     padding: 7px;
-    color: #BDBDBD;
-    border-bottom: 1px solid #4e4e4e
+    color: #eee;
+    border-bottom: 1px solid #4e4e4e;
 }
 
 #inbox .head {
