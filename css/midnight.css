@@ -1303,7 +1303,7 @@ td.shoutTable {
 }
 
 table.shoutTable a {
-    color: #0A84AF;
+    color: #1A73E8;
 }
 
 tr.row1 {
@@ -1579,7 +1579,6 @@ a:hover {
 .colhead a,
 .colhead_dark a {
     color: #9a9a9a;
-    /* color: #1e4754; */
 }
 
 .forum_post .colhead_dark a {
@@ -2764,7 +2763,7 @@ td.shoutTable {
 }
 
 table.shoutTable a {
-    color: #0A84AF;
+    color: #1A73E8;
 }
 
 tr.row1 {
