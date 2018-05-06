@@ -56,7 +56,6 @@ a:hover {
 .colhead a,
 .colhead_dark a {
     color: #fafafa;
-    /* color: #1c94e0; */
 }
 
 .forum_post .colhead_dark a {
@@ -1549,7 +1548,7 @@ body {
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
-    color: #d8d8d8;
+    color: #fafafa;
     background:url('https://ialexsilva.com/bjshare_themes/img/simple-dashed.png') repeat;
     background-color:#101010;
 }
@@ -1559,12 +1558,12 @@ body {
 a {
     text-decoration: none;
     border: none;
-    color: #b9b9b9;
+    color: #BDBDBD;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #eee;
+    color: #fafafa;
 }
 
 .head a {
@@ -2177,7 +2176,7 @@ p.min_padding {
 .head {
     background-color: #1e1e1e;
     padding: 7px;
-    color: #3c647d;
+    color: #BDBDBD;
     border-bottom: 1px solid #4e4e4e
 }
 
@@ -2313,11 +2312,11 @@ td.colhead, .colhead td, .colhead th {
 
 .colhead_dark {
     background-color: #191818;
-    color: #1e4754;
+    color: #BDBDBD;
 }
 
 .colhead_dark a{
-    color: #1e4754;
+    color: #BDBDBD;
 }
 
 .forum_post .colhead_dark {
@@ -2778,7 +2777,7 @@ tr.row2 {
 
 /*Botoes e inputs submits*/
 button:hover, input[type="submit"]:hover, input[type=button]:hover {
-    background: #0a2333;
+    background: #101010;
     text-decoration: none;
 }
 
@@ -2791,7 +2790,7 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
 button, input[type=submit], input[type=button] {
     min-width: 30px;
     margin-bottom: 0;
-    background: #2c485a;
+    background: #414345;
     cursor: pointer;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -2865,12 +2864,12 @@ a.BJinfoBox span {
     position: absolute;
     min-width: 185px;
     color: #fafafa;
-    background: linear-gradient(to bottom, #3498db, #256f9c);
-    background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
-    background-image: -moz-linear-gradient(top, #3498db, #256f9c);
-    background-image: -ms-linear-gradient(top, #3498db, #256f9c);
-    background-image: -o-linear-gradient(top, #3498db, #256f9c);
-    background-image: linear-gradient(to bottom, #3498db, #256f9c);
+    background: linear-gradient(to bottom, #414345, #232526);
+    background-image: -webkit-linear-gradient(top, #414345, #232526);
+    background-image: -moz-linear-gradient(top, #414345, #232526);
+    background-image: -ms-linear-gradient(top, #414345, #232526);
+    background-image: -o-linear-gradient(top, #414345, #232526);
+    background-image: linear-gradient(to bottom, #414345, #232526);
     line-height: 15px;
     visibility: hidden;
     border-radius: 6px;
@@ -2878,7 +2877,6 @@ a.BJinfoBox span {
     padding: 7px 10px;
     opacity: 0;
     bottom: 0px;
-
     -webkit-transition: opacity, bottom 0.4s;
     -moz-transition: opacity, bottom 0.4s;
     -ms-transition: opacity, bottom 0.4s;
@@ -2929,12 +2927,11 @@ a:hover.BJinfoBox span {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    background: linear-gradient(to bottom, #3498db, #256f9c);
-    background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
-    background-image: -moz-linear-gradient(top, #3498db, #256f9c);
-    background-image: -ms-linear-gradient(top, #3498db, #256f9c);
-    background-image: -o-linear-gradient(top, #3498db, #256f9c);
-    background-image: linear-gradient(to bottom, #3498db, #256f9c);
+    background-image: -webkit-linear-gradient(top, #414345, #232526);
+    background-image: -moz-linear-gradient(top, #414345, #232526);
+    background-image: -ms-linear-gradient(top, #414345, #232526);
+    background-image: -o-linear-gradient(top, #414345, #232526);
+    background-image: linear-gradient(to bottom, #414345, #232526);
     color: #fafafa;
     content: attr(data-tooltip);
     text-align: center;
@@ -2951,7 +2948,7 @@ a:hover.BJinfoBox span {
     left: 50%;
     margin-left: -5px;
     width: 0;
-    border-top: 5px solid #256f9c;
+    border-top: 5px solid #232526;
     border-right: 5px solid transparent;
     border-left: 5px solid transparent;
     content: " ";
@@ -2984,7 +2981,7 @@ a[data-tooltip]:hover{
 }
 
 table.torrent_table.cats.numbering.border {
-   color: #6ecae5;
+   color: #BDBDBD;
 }
 
 .torrent_table tr.torrent {
@@ -3040,11 +3037,11 @@ table.forum_post td {
 }
 
 a {
-    color: #4d7c9a;
+    color: #BDBDBD;
 }
 
 a:hover {
-    color: #639fc5;
+    color: #fafafa;
     text-decoration: none;
 }
 input{
@@ -3052,11 +3049,11 @@ background: #d8d8d8;
 color: black;
 }
 select{
-background: #d8d8d8
+background: #d8d8d8;
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
-    background: #4d7c9a;
+    background: #101010;
     color: #f7f7f7;
     cursor: default;
 }
@@ -3172,7 +3169,7 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
     right: 0;
     min-width: 90px;
     margin-bottom: 0;
-    background: #2c485a;
+    background: #414345;
     cursor: pointer;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -3191,7 +3188,7 @@ ul.bjqs-controls.v-centered li.bjqs-prev a {
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
-    background: #2c485a;
+    background: #414345;
     cursor: pointer;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -3254,7 +3251,7 @@ ul.bjqs-controls.v-centered li a {
     font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
     padding: 10px;
-    background: #365a72;
+    background: #414345;
     font-weight: normal;
     color: #fafafa;
     text-decoration: none;
@@ -3265,7 +3262,7 @@ ul.bjqs-controls.v-centered li a {
 }
 
 ul.bjqs-controls.v-centered li a:hover {
-    background: #0a2333;
+    background: #101010;
     text-decoration: none;
 }
 
