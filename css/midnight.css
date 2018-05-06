@@ -3102,13 +3102,10 @@ iframe.homesldframe {
     top: 72px !important;
     left: 0px;
 }
-#irtopo{
-background: #b9b9b9 !important;
-    border-radius: 25px !important;
-}
+#irtopo{background: #434546 !important;border-radius: 25px !important;}
 
 #irtopo:hover{
-background: #464646 !important;
+background: #262626 !important;
 }
 
 form textarea, form input {
