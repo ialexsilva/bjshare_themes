@@ -1419,7 +1419,6 @@ a.BJinfoBox span {
     background-image: -ms-linear-gradient(top, #000, #0f161e);
     background-image: -o-linear-gradient(top, #000, #0f161e);
     background-image: linear-gradient(to bottom, #000, #0f161e);
-    /*height: 30px;*/
     line-height: 15px;
     visibility: hidden;
     border-radius: 2px;
@@ -1460,8 +1459,6 @@ a:hover.BJinfoBox span {
 [data-tooltip]:before,
 [data-tooltip]:after {
     visibility: hidden;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
     pointer-events: none;
 
@@ -1516,8 +1513,6 @@ a:hover.BJinfoBox span {
 [data-tooltip]:hover:before,
 [data-tooltip]:hover:after {
     visibility: visible;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
     opacity: 1;
     text-decoration: none;
     -webkit-transition: all 0.4s;
@@ -3110,12 +3105,12 @@ iframe.homesldframe {
     left: 0px;
 }
 #irtopo{
-background: #b9b9b938 !important;
+background: #b9b9b9 !important;
     border-radius: 25px !important;
 }
 
 #irtopo:hover{
-background: #46464659 !important;
+background: #464646 !important;
 }
 
 form textarea, form input {
