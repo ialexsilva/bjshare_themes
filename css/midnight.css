@@ -2766,7 +2766,7 @@ tr.row2 {
 
 /*Botoes e inputs submits*/
 button:hover, input[type="submit"]:hover, input[type=button]:hover {
-    background: #101010;
+    background: #4d4d50;
     text-decoration: none;
 }
 
@@ -2779,7 +2779,7 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
 button, input[type=submit], input[type=button] {
     min-width: 30px;
     margin-bottom: 0;
-    background: #414345;
+    background: #343436;
     cursor: pointer;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -3042,7 +3042,7 @@ background: #d8d8d8;
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
-    background: #101010;
+    background: #4d4d50;
     color: #f7f7f7;
     cursor: default;
 }
@@ -3155,7 +3155,7 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
     right: 0;
     min-width: 90px;
     margin-bottom: 0;
-    background: #414345;
+    background: #343436;
     cursor: pointer;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -3174,7 +3174,7 @@ ul.bjqs-controls.v-centered li.bjqs-prev a {
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
-    background: #414345;
+    background: #343436;
     cursor: pointer;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -3237,7 +3237,7 @@ ul.bjqs-controls.v-centered li a {
     font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
     padding: 10px;
-    background: #414345;
+    background: #343436;
     font-weight: normal;
     color: #fafafa;
     text-decoration: none;
@@ -3248,7 +3248,7 @@ ul.bjqs-controls.v-centered li a {
 }
 
 ul.bjqs-controls.v-centered li a:hover {
-    background: #101010;
+    background: #4d4d50;
     text-decoration: none;
 }
 
