@@ -1213,7 +1213,7 @@ tr.torrent .bookmark > a:after {
 }
 
 div[class~=tooltipster-content] > a {
-    color: #AAAAAA;
+    color: #AAA;
 }
 
 .post_id {
@@ -1221,11 +1221,11 @@ div[class~=tooltipster-content] > a {
 }
 
 .vote_tag_up, .vote_artist_up, .vote_album_up, .small_upvote, .small_upvoted {
-    color: green;
+    color: #0065c7;
 }
 
 .vote_tag_down, .vote_artist_down, .vote_album_down, .small_downvote, .small_downvoted {
-    color: red;
+    color: #d60000;
 }
 
 code {
@@ -2665,7 +2665,7 @@ tr.torrent .bookmark > a:after {
 }
 
 div[class~=tooltipster-content] > a {
-    color: #AAAAAA;
+    color: #AAA;
 }
 
 .post_id {
@@ -2673,11 +2673,11 @@ div[class~=tooltipster-content] > a {
 }
 
 .vote_tag_up, .vote_artist_up, .vote_album_up, .small_upvote, .small_upvoted {
-    color: green;
+    color: #0065c7;
 }
 
 .vote_tag_down, .vote_artist_down, .vote_album_down, .small_downvote, .small_downvoted {
-    color: red;
+    color: #d60000;
 }
 
 code {
