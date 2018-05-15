@@ -651,6 +651,7 @@ p.min_padding {
     padding: 7px;
     color: #eee;
     border-bottom: 1px solid #4e4e4e;
+    font-weight: bold;
 }
 
 #inbox .head {
@@ -786,6 +787,7 @@ td.colhead, .colhead td, .colhead th {
 .colhead_dark {
     background-color: #191818;
     color: #eee;
+    font-weight: bold;
 }
 
 .colhead_dark a{
