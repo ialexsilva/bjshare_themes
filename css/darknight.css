@@ -1650,11 +1650,11 @@ form textarea, form input {
     max-width: 100%;
     border: 1px solid #757575;
     color: #eee;
-    background: #434546;
+    background: #424242;
 }
 
 select {
-    background: #434546;
+    background: #424242;
     color: #d8d8d8;
     border: 1px solid #757575;
 }
