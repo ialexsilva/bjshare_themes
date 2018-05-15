@@ -1648,13 +1648,13 @@ iframe.homesldframe {
 
 form textarea, form input {
     max-width: 100%;
-    color: #000;
-    background: #d8d8d8;
+    color: #eee;
+    background: #434546;
 }
 
 select {
-    background: #d8d8d8;
-    color: #000;
+    background: #434546;
+    color: #d8d8d8;
 }
 
 .sidebar img {
