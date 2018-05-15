@@ -442,7 +442,7 @@ ul.thin li {
 
 #searchbars input {
     background: #101010 url('https://ialexsilva.com/bjshare_themes/img/search.png') no-repeat center left;
-    border: 1px solid #404448;
+    border: 1px solid #424242;
     position: relative;
     padding: 5px 5px 5px 25px;
     font-size: 95%;
@@ -1648,6 +1648,7 @@ iframe.homesldframe {
 
 form textarea, form input {
     max-width: 100%;
+    border: 1px solid #757575;
     color: #eee;
     background: #434546;
 }
@@ -1655,6 +1656,7 @@ form textarea, form input {
 select {
     background: #434546;
     color: #d8d8d8;
+    border: 1px solid #757575;
 }
 
 .sidebar img {
