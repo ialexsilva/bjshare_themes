@@ -449,6 +449,11 @@ button.multiselect.dropdown-toggle.btn.btn-default {
     box-shadow: 1px 3px 11px 0px #131313;
 }
 
+#searchbars input:focus {
+
+    color:#eee;
+}
+
 #searchbars ul {
     margin: 0 auto;
     display: block;
