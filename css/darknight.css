@@ -91,10 +91,6 @@ li {
     margin: 5px 15px;
 }
 
-input {
-    padding: 2px 3px;
-}
-
 textarea {
     padding: 2px 3px;
 }
@@ -1572,8 +1568,10 @@ a:hover {
     text-decoration: none;
 }
 input {
-    background: #d8d8d8;
-    color: #000;
+    border: 1px solid #757575;
+    color: #eee;
+    background: #3b3b3b;
+    padding: 2.5px 3px;
 }
 
 button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
@@ -1641,6 +1639,7 @@ select {
     background: #3b3b3b;
     color: #d8d8d8;
     border: 1px solid #757575;
+    padding: 1.5px;
 }
 
 select:hover {
@@ -1791,4 +1790,13 @@ ol.bjqs-markers li a {
 ol.bjqs-markers li.active-marker a,
 ol.bjqs-markers li a:hover {
     background: #999;
+}
+
+#btntodosSlide {
+    margin-left: 30px;
+    margin-top: 18px;
+    font-family: Roboto, tahoma, helvetica, sans-serif;
+    font-weight: normal;
+    min-height: 28px;
+    max-width: 50px;
 }
