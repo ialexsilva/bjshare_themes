@@ -433,6 +433,12 @@ ul.thin li {
     margin-top: 110px;
 }
 
+button.multiselect.dropdown-toggle.btn.btn-default {
+    color: #eee;
+    background-color: #3b3b3b;
+    border-color: #757575;
+}
+
 #searchbars input {
     background: #101010 url('https://ialexsilva.com/bjshare_themes/img/search.png') no-repeat center left;
     border: 1px solid #424242;
