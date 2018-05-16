@@ -1586,7 +1586,6 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
     color: #868686;
 }
 
-
 .torrent_table tr.group_torrent:nth-child(4n) {
     background-color: #202020;
     
@@ -1679,10 +1678,6 @@ ul.bjqs-controls {
     z-index: 9999;
 }
 
-ul.bjqs-controls.v-centered li a {
-    position: absolute;
-}
-
 ul.bjqs-controls.v-centered li.bjqs-next a {
     margin-top: 182px;
     right: 0;
@@ -1736,10 +1731,6 @@ ol.bjqs-markers li {
     display: inline;
 }
 
-ol.bjqs-markers li a {
-    display: inline-block;
-}
-
 p.bjqs-caption {
     font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
@@ -1751,6 +1742,7 @@ p.bjqs-caption {
     font-size: 14px;
     color: #fafafa;
     border-radius: 3px;
+    background: rgba(7, 7, 7, 0.71);
 }
 
 #container {
@@ -1768,6 +1760,7 @@ p.bjqs-caption {
 }
 
 ul.bjqs-controls.v-centered li a {
+    position: absolute;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     display: block;
     padding: 10px;
@@ -1792,15 +1785,12 @@ ol.bjqs-markers li a {
     color: #fafafa;
     margin: 5px;
     text-decoration: none;
+    display: inline-block;
 }
 
 ol.bjqs-markers li.active-marker a,
 ol.bjqs-markers li a:hover {
     background: #999;
-}
-
-p.bjqs-caption {
-    background: rgba(7, 7, 7, 0.71);
 }
 
 #btntodosSlide {
