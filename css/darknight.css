@@ -1048,7 +1048,7 @@ blockquote {
 
 /* Layout (Inbox) */
 tr.unreadpm {
-    background-color: #ECC;
+    background-color: #424242;
 }
 
 /* Layout (Permission Page) */
@@ -1580,9 +1580,6 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
     color: #868686;
 }
 
-tr.unreadpm {
-    background-color: #3c3c3c;
-}
 
 .torrent_table tr.group_torrent:nth-child(4n) {
     background-color: #202020;
