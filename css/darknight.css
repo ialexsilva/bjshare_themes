@@ -1791,12 +1791,3 @@ ol.bjqs-markers li.active-marker a,
 ol.bjqs-markers li a:hover {
     background: #999;
 }
-
-#btntodosSlide {
-    margin-left: 30px;
-    margin-top: 18px;
-    font-family: Roboto, tahoma, helvetica, sans-serif;
-    font-weight: normal;
-    min-height: 28px;
-    max-width: 50px;
-}
