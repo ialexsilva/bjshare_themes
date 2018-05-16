@@ -1542,7 +1542,8 @@ tr {
 
 .noty_message {
     background: #222;
-    color: #dddddd;
+    color: #eee;
+    font-weight: bold;
 }
 
 .noty_buttons {
