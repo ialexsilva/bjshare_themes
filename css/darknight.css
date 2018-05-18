@@ -1309,6 +1309,10 @@ tr.row2 {
     background: #2e2e2e;
 }
 
+b.inferno_alert {
+    color: red;
+}
+
 /* Botões, inputs e submits */
 button:hover, input[type="submit"]:hover, input[type=button]:hover {
     background: #4d4d50;
