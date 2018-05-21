@@ -1605,15 +1605,8 @@ button:disabled, input[type="submit"]:disabled, input[type=button]:disabled {
     background-color: #292929;
 }
 
-/*div#container {
-
-}*/
-
 div#banner-fade {
     background: border-box;
-}
-iframe.homesldframe {
-    background: #fafafa;
 }
 
 .noty_buttons a{
@@ -1654,13 +1647,16 @@ select:hover {
 
 .sidebar img {
     max-width: 220px;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
+}
+
+.fancybox-skin {
+    background-color: #000
 }
  
 #noteAlertMsg {
     position: relative;
     z-index: 1 !important;
+    display: none;
 }
 
 /* Lançamentos da Página inicial */
