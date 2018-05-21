@@ -1101,8 +1101,8 @@ ul .invitetree {
 }
 
 /* Layout (Persoalizacao) */
-.progress-bg {		
-    background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x!important;		
+.progress-bg {
+    background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x!important;
  }		
 
  .progress-bar {		
@@ -1654,6 +1654,8 @@ select:hover {
 
 .sidebar img {
     max-width: 220px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
 }
  
 #noteAlertMsg {
