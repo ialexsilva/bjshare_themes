@@ -1359,7 +1359,6 @@ button, input[type=submit], input[type=button] {
 
 #irtopo:hover {
     background: #262626 !important;
-    
 }
 
 /* Home Slider */
@@ -1621,7 +1620,7 @@ select:hover {
 #noteAlertMsg {
     position: relative;
     z-index: 1 !important;
-    display: none;
+    display: none !important;
 }
 
 /* Lançamentos da Página inicial */
