@@ -211,7 +211,7 @@ ul.thin li {
 #header {
     background: url('https://ialexsilva.com/bjshare_themes/img/header.png') repeat-x top center;
     width: 100%;
-    padding: 0px 0 0 0;
+    padding: 0px;
 }
 
 #content {
