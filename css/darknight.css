@@ -1288,11 +1288,7 @@ td.shoutTable {
 }
 
 table.shoutTable a {
-    color: #1A73E8;
-}
-
-table.shoutTable a:hover {
-    text-decoration: underline;
+    color: #13aff0;
 }
 
 tr.row1 {
