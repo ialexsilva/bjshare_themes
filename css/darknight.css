@@ -515,10 +515,10 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
 
 .alertbar {
     text-align: center;
-    background-color: rgba(41, 41, 41, 0.9);
+    background-color: rgba(40, 40, 40, 0.8);
     color: #ddd;
     margin: 0px auto 0px auto;
-    padding: 15px;
+    padding: 13px;
     width: 935px;
     font-weight: bold;
     font-size: 0.95em;
