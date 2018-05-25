@@ -564,6 +564,7 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
 .hidden {
     position: absolute;
     left: -10000px;
+    display: none !important;
 }
 
 input.hidden {
@@ -841,10 +842,6 @@ table.slice {
     border: 3px solid #B00D0D;
 }
 
-.hidden {
-    display: none;
-}
-
 /* Layout (home page) */
 ul.stats li {
     padding: 0px 0px 1px 0px;
@@ -915,8 +912,7 @@ ul.poll li.graph {
 }
 
 .torrent_table tr.group {
-    background-color: #2f2f2f
-        ;
+    background-color: #2f2f2f;
 }
 
 .torrent_table tr.group_torrent:nth-child(4n+2) {
@@ -1150,7 +1146,6 @@ div#chatoutput {
     padding: 0px;
 }
 
-
 .curtain {
     position: fixed;
     top: 0%;
@@ -1172,10 +1167,6 @@ div#chatoutput {
     padding: 0px;
     z-index: 1002;
     overflow: auto;
-}
-
-.center {
-    text-align: center;
 }
 
 .spellcheck {
@@ -1365,7 +1356,7 @@ button, input[type=submit], input[type=button] {
 }
 
 /* Home Slider */
-.homesldframe{
+.homesldframe {
     height: 350px;
     width: 250px;
     left: -12px;
@@ -1467,7 +1458,7 @@ a:hover.BJinfoBox span {
     transition: all 0.4s;
 }
 
-a[data-tooltip]:hover{
+a[data-tooltip]:hover {
     text-decoration: none;
 }
 
