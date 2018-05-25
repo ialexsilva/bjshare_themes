@@ -413,10 +413,6 @@ ul.thin li {
     font-weight: bold;
 }
 
-li#stats_ratio {
-    color: #e1e1e1;
-}
-
 span.stat.tooltip {
     color: gold;
 }
