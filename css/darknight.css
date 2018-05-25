@@ -1458,7 +1458,7 @@ a:hover.BJinfoBox span {
 [data-tooltip]:hover:before,
 [data-tooltip]:hover:after {
     visibility: visible;
-    opacity: 1;
+    opacity: 0.95;
     text-decoration: none;
     transition: all 0.4s;
 }
