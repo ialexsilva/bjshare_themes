@@ -30,14 +30,16 @@ body {
 
 /* Common elements */
 a {
+    color: #BDBDBD;
+    transition: 0.2s;
     text-decoration: none;
     border: none;
-    color: #BDBDBD;
 }
 
 a:hover {
-    text-decoration: underline;
     color: #fafafa;
+    transition: 0.2s;
+    text-decoration: none;
 }
 
 .head a {
@@ -222,7 +224,7 @@ ul.thin li {
 }
 
 #footer {
-    background-color: #111111;
+    background-color: #101010;
     margin-top: 40px;
     width: 100%;
     text-align: center;
@@ -451,7 +453,6 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
 }
 
 #searchbars input:focus {
-
     color:#eee;
 }
 
@@ -620,19 +621,17 @@ p.min_padding {
     background: rgba(41, 41, 41, 0.85);
     border: 1px solid #404040;
     margin-bottom: 10px;
- 	 box-shadow: 1px 1px 10px #000;
+ 	box-shadow: 1px 1px 10px #000;
 }
 
 .box2 {
     background: rgba(41, 41, 41, 0.85);
     border: 1px solid #4e4e4e;
     margin-bottom: 10px;
-
 }
 
 .box3 {
     margin-bottom: 10px;
-
 }
 
 .torrent_description,
@@ -1102,7 +1101,7 @@ ul .invitetree {
     background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x!important;
  }		
 
- .progress-bar {		
+.progress-bar {		
     background: url('https://ialexsilva.com/bjshare_themes/img/bar.png') repeat-x!important;		
 }		
 
@@ -1375,13 +1374,13 @@ a.BJinfoBox {
     position: relative;
     display: inline;
 }
+
 a.BJinfoBox span {
     font-weight:normal;
     text-decoration: none;
     position: absolute;
     min-width: 185px;
     color: #fafafa;
-    background: linear-gradient(to bottom, #414345, #232526);
     background-image: linear-gradient(to bottom, #414345, #232526);
     line-height: 15px;
     visibility: hidden;
@@ -1392,7 +1391,6 @@ a.BJinfoBox span {
     bottom: 0px;
     transition: opacity, bottom 0.4s;
 }
-
 
 a:hover.BJinfoBox span {
     visibility: visible;
@@ -1430,7 +1428,7 @@ a:hover.BJinfoBox span {
     padding: 7px;
     min-width: 50px;
     border-radius: 3px;
-    background-image: linear-gradient(to bottom, #414345, #232526);
+    background-image: linear-gradient(to bottom, #414345, #333536);
     color: #fafafa;
     content: attr(data-tooltip);
     text-align: center;
@@ -1447,7 +1445,7 @@ a:hover.BJinfoBox span {
     left: 50%;
     margin-left: -5px;
     width: 0;
-    border-top: 5px solid #232526;
+    border-top: 5px solid #333536;
     border-right: 5px solid transparent;
     border-left: 5px solid transparent;
     content: " ";
@@ -1531,16 +1529,6 @@ table.forum_post td {
     border: 1px solid #464646;
 }
 
-a {
-    color: #BDBDBD;
-    transition: 0.2s;
-}
-
-a:hover {
-    color: #fafafa;
-    transition: 0.2s;
-    text-decoration: none;
-}
 input {
     border: 1px solid #757575;
     color: #eee;
@@ -1706,15 +1694,6 @@ p.bjqs-caption {
     color: #fafafa;
     border-radius: 3px;
     background: rgba(7, 7, 7, 0.71);
-}
-
-#container {
-    float: right;
-    position: relative;
-    width: 274px;
-    padding-top: 4px;
-    padding-bottom: 0px;
-    float: bottom;
 }
 
 #banner-fade,
