@@ -434,13 +434,12 @@ span.stat.tooltip {
 }
 
 button.multiselect.dropdown-toggle.btn.btn-default {
-    color: #eee;
+    color: #bdbdbd;
     background-color: #3b3b3b;
     border-color: #757575;
 }
 
 button.multiselect.dropdown-toggle.btn.btn-default:hover {
-
     border-color:#9e9e9e
 }
 
