@@ -352,7 +352,7 @@ ul.thin li {
 
 #menudrop ul ul ul {
     top: 0;
-    left: 100%
+    left: 100%;
 }
 
 #menudrop ul li:hover > ul,
@@ -1094,18 +1094,18 @@ ul .invitetree {
 
 /* Layout (Persoalizacao) */
 .progress-bg {
-    background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x!important;
+    background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x !important;
  }		
 
 .progress-bar {		
-    background: url('https://ialexsilva.com/bjshare_themes/img/bar.png') repeat-x!important;		
+    background: url('https://ialexsilva.com/bjshare_themes/img/bar.png') repeat-x !important;		
 }		
 
 .noty_buttons a {		
-    color: #313131		
+    color: #313131;		
 }		
 .noty_buttons a:hover {		
-    color: #1c94e0		
+    color: #1c94e0;		
 }		
  td.smilies_list {		
     background: #101010;		
@@ -1192,7 +1192,7 @@ tr.torrent .bookmark > a:after {
 }
 
 div[class~=tooltipster-content] > a {
-    color: #AAA;
+    color: #aaa;
 }
 
 .post_id {
@@ -1464,7 +1464,7 @@ a[data-tooltip]:hover {
 }
 
 table.torrent_table.cats.numbering.border {
-   color: #BDBDBD;
+   color: #bdbdbd;
 }
 
 .torrent_table tr.torrent {
@@ -1557,7 +1557,7 @@ div#banner-fade {
 }
 
 .noty_buttons a{
-    color: #1776b2
+    color: #1776b2;
 }
 
 #container {
@@ -1589,7 +1589,7 @@ select {
 }
 
 select:hover {
-    border-color:#9e9e9e
+    border-color:#9e9e9e;
 }
 
 .sidebar img {
