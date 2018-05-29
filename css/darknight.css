@@ -288,7 +288,7 @@ ul.thin li {
 
 #menudrop ul a {
     display: block;
-    color: #bdbdbd;
+    color: #adadad;
     text-decoration: none;
     font-weight: 700;
     font-size: 12px;
@@ -434,7 +434,7 @@ span.stat.tooltip {
 }
 
 button.multiselect.dropdown-toggle.btn.btn-default {
-    color: #bdbdbd;
+    color: #eee;
     background-color: #3b3b3b;
     border-color: #757575;
 }
@@ -444,7 +444,7 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
 }
 
 #searchbars input {
-    background: #101010 url('https://ialexsilva.com/bjshare_themes/img/search.png') no-repeat center left;
+    background: #101010 url('https://ialexsilva.com/bjshare_themes/img/search.png') no-repeat 2px center;
     border: 1px solid #424242;
     position: relative;
     padding: 5px 5px 5px 25px;
