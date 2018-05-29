@@ -446,6 +446,7 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
     background: #101010 url('https://ialexsilva.com/bjshare_themes/img/search.png') no-repeat 2px center;
     border: 1px solid #424242;
     position: relative;
+    outline: 0;
     padding: 5px 5px 5px 25px;
     font-size: 95%;
     color: #9E9E9E;
@@ -1523,6 +1524,7 @@ table.forum_post td {
 input {
     border: 1px solid #757575;
     color: #eee;
+    outline: 0;
     background: #3b3b3b;
     padding: 2.5px 3px;
 }
