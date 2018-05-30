@@ -1605,6 +1605,7 @@ select {
     color: #d8d8d8;
     border: 1px solid #757575;
     padding: 1.5px;
+    outline: 0;
 }
 
 select:hover {
