@@ -1324,6 +1324,7 @@ button, input[type=submit], input[type=button] {
     text-align: center;
     text-shadow: 0 1px 0 rgba(0,0,0,.1);
     transition: all 0.2s;
+    outline:0;
 }
 
 /* Botão ir ao topo */
