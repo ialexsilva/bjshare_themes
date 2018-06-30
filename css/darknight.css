@@ -26,6 +26,8 @@ body {
     background-color:#101010;
 }
 
+::selection { background: #bdbdbd; }
+
 /* Common elements */
 a {
     color: #BDBDBD;
