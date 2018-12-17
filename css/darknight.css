@@ -1,5 +1,7 @@
 /* Tema DarkNight para o BJ-Share feito por Macabro */
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
 /* Global */
 * {
     padding: 0em;
@@ -21,7 +23,7 @@ body {
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
-    color: #BDBDBD;
+    color: #bdbdbd;
     background:url('https://ialexsilva.com/bjshare_themes/img/simple-dashed.png') repeat;
     background-color:#101010;
 }
@@ -444,6 +446,18 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
     border-color:#9e9e9e;
 }
 
+@-webkit-keyframes autofill {
+    to {
+        color: #bdbdbd;
+        background: rgb(16, 16, 16, 0.6) url(https://ialexsilva.com/bjshare_themes/img/search.png) no-repeat 2px center;
+    }
+}
+
+input:-webkit-autofill {
+    -webkit-animation-name: autofill;
+    -webkit-animation-fill-mode: both;
+}
+
 #searchbars input {
     background: rgb(16, 16, 16, 0.6) url(https://ialexsilva.com/bjshare_themes/img/search.png) no-repeat 2px center;
     border: 1px solid #323232;
@@ -457,7 +471,7 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
 }
 
 #searchbars input:focus {
-    color:#eee;
+    color:#bdbdbd;
     background: rgb(26, 26, 27, 0.9) url(https://ialexsilva.com/bjshare_themes/img/search.png) no-repeat 2px center;
     border: 1px solid #404040;
     transition: all 0.3s;
