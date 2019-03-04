@@ -17,7 +17,7 @@ html {
  /* Corpo */
 body {
     width: 100%;
-    margin-top: 55px;
+    margin-top: 32px;
     min-width: 950px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
@@ -236,7 +236,7 @@ ul.thin li {
     background: url('https://ialexsilva.com/bjshare_themes/img/logo.png') no-repeat center;
     width: 100%;
     height: 205px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 #logo a {
@@ -259,6 +259,7 @@ ul.thin li {
     text-align: center;
     font-size: 13px;
     z-index: 1001;
+    box-shadow: 0px -11px 35px 15px #101010;
 }
 
 #centertopmenu {
@@ -339,7 +340,7 @@ ul.thin li {
     border-bottom: 1px solid #151515;
     float: none;
     width: 145px;
-    height: 30px;
+    height: 20px;
 }
 
 #menudrop ul ul li:hover,
@@ -349,7 +350,7 @@ ul.thin li {
 
 #menudrop ul ul a {
     line-height: 120%;
-    padding: 10px 15px
+    padding: 3px 10px;
 }
 
 #menudrop ul ul ul {
@@ -364,15 +365,15 @@ ul.thin li {
 /* Fim - Menu DropDown */
 #userinfo {
     background-color: #1e1e1e;
-    position: fixed;
-    top: 32px;
-    padding: 4px 0px;
+    position: absolute;
+    top: 285px;
+    padding: 3px 0px;
     width: 100%;
     min-width: 950px;
     color: #bdbdbd;
     text-align: center;
     font-size: 0.9em;
-    box-shadow: 0px 5px 10px 0px #000;
+    box-shadow: 10px 10px px 10px #000;
     z-index: 1000;
 }
 
@@ -426,7 +427,7 @@ span.stat.tooltip {
 
 #searchbars {
     position: absolute;
-    top: 165px;
+    top: 125px;
     width: 100%;
     min-width: 950px;
     text-align: center;
@@ -520,8 +521,8 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
     text-align: center;
     background-color: rgba(40, 40, 40, 0.8);
     color: #ddd;
-    margin: 0px auto 0px auto;
-    padding: 13px;
+    margin: 10px auto 0px auto;
+    padding: 12px;
     width: 935px;
     font-weight: bold;
     font-size: 0.95em;
