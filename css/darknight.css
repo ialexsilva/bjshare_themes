@@ -366,14 +366,14 @@ ul.thin li {
 #userinfo {
     background-color: #1e1e1e;
     position: absolute;
-    top: 290px;
+    top: 285px;
     padding: 3px 0px;
     width: 100%;
     min-width: 950px;
     color: #bdbdbd;
     text-align: center;
     font-size: 0.9em;
-    box-shadow: 10px 10px px 10px #000;
+    box-shadow: 0 -5px 15px -5px #000;
     z-index: 1000;
 }
 
@@ -427,7 +427,7 @@ span.stat.tooltip {
 
 #searchbars {
     position: absolute;
-    top: 135px;
+    top: 130px;
     width: 100%;
     min-width: 950px;
     text-align: center;
