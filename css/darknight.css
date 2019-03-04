@@ -337,10 +337,10 @@ ul.thin li {
 #menudrop ul ul li {
     border-left: 0;
     border-right: 0;
-    border-bottom: 1px solid #151515;
+    border-bottom: 1px solid #313131;
     float: none;
     width: 145px;
-    height: 20px;
+    height: 22px;
 }
 
 #menudrop ul ul li:hover,
@@ -350,7 +350,7 @@ ul.thin li {
 
 #menudrop ul ul a {
     line-height: 120%;
-    padding: 3px 10px;
+    padding: 5px 10px;
 }
 
 #menudrop ul ul ul {
