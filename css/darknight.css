@@ -464,9 +464,8 @@ button.multiselect.dropdown-toggle.btn.btn-default:hover {
     background: rgb(26, 26, 27, 0.9);
     border: 1px solid #404040;
     padding: 5px 5px 5px 5px;
-    transition: all 0.3s;
     width: 170px;
-    transition: width 0.5s ease-in;
+    transition: width 0.3s ease-in;
 }
 
 #searchbars ul {
