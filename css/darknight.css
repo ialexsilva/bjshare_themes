@@ -1102,16 +1102,7 @@ ul .invitetree {
 /* Layout (User options) */
 .user_options .options_list li {
     margin: 0;
-}
-
-/* Layout (Persoalizacao) */
-.progress-bg {
-    background: url('https://ialexsilva.com/bjshare_themes/img/bar_bg.png') repeat-x !important;
- }		
-
-.progress-bar {		
-    background: url('https://ialexsilva.com/bjshare_themes/img/bar.png') repeat-x !important;		
-}		
+}	
 
 .noty_buttons a {		
     color: #BDBDBD;		
