@@ -1639,7 +1639,7 @@ ul.bjqs-controls {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-next a {
-    margin-top: 182px;
+    margin-top: 200px;
     right: 0;
     min-width: 90px;
     margin-bottom: 0;
@@ -1656,7 +1656,7 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-prev a {
-    margin-top: 182px;
+    margin-top: 200px;
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
