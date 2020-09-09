@@ -605,6 +605,16 @@ input.hidden {
     font-weight: bold;
 }
 
+.internalbox {
+    background: #151515 none repeat scroll 0 0;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0px 5px;
+    color: #bdbdbd;
+    float: none !important;
+    cursor: help;
+}
+
 div.linkbox {
     text-align: center;
     padding: 5px;
