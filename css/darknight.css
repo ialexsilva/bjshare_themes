@@ -363,6 +363,12 @@ ul.thin li {
 #menudrop ul li:focus > ul {
     display: block;
 }
+
+input#logsearch {
+    display: none;
+    visibility: hidden;
+}
+
 /* Fim - Menu DropDown */
 #userinfo {
     background-color: #1e1e1e;
